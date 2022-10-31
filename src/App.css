@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-wrapper a{
+  padding-left: 30px;
+}
+
+.form-control-main {
+  align-items: center;
+  display: inline-block;
+  margin-top: 100px;
+  width: 500px;
+  
+}
